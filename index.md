@@ -8,7 +8,7 @@ hero:
   tagline: 網站的獨特價值主張
   actions:
     - theme: brand
-      text: 2025
+      text: Markdown Examples
       link: /markdown-examples
     - theme: alt
       text: API Examples
