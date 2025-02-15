@@ -4,8 +4,8 @@ import { SearchPlugin } from "vitepress-plugin-search";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "網站標題",
-  description: "網站描述",
+  title: "Addie Blog", //網站標題
+  description: "All great changes are preceded by chaos.", //標題描述
   head: [
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
